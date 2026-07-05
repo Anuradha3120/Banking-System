@@ -36,6 +36,7 @@ python banking.py
 The GUI will open with options to Open Account, Check Account, Deposit, Withdraw, and Exit.
 
 Follow the prompts to perform banking operations.
+
 Main Screen
 
 <img width="622" height="515" alt="Screenshot 2026-07-05 194537" src="https://github.com/user-attachments/assets/1569f69e-1587-4610-9c4c-c8da9cfaa33d" />
