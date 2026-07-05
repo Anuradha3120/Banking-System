@@ -63,6 +63,8 @@ Withdraw
 
 Database Structure
 The application uses an SQLite database (bank.db) with a table named accounts. The table structure is as follows:
+
+
 <img width="631" height="183" alt="Screenshot 2026-07-05 200003" src="https://github.com/user-attachments/assets/8c29bf6c-c5e4-4c04-828f-2e338375dc41" />
 
 Author : Anuradha Sagane
