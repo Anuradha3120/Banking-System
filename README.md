@@ -2,20 +2,25 @@ BANKING SYSTEM
 
 This is a simple Banking System application built using Python, Tkinter (GUI), and SQLite (Database). The application allows users to:
 
-Open a new bank account
-Check account details
-Deposit money
-Withdraw money
-Features
-User-friendly GUI created with Tkinter
-Secure and lightweight SQLite database for storing account details
-Basic banking operations: Open Account, Check Account, Deposit, Withdraw
-Error handling for invalid inputs
-Technologies Used
-Python (for backend logic)
-Tkinter (for GUI)
-SQLite (for database management)
-Project Structure
+1.Open a new bank account
+2.Check account details
+3.Deposit money
+4.Withdraw money
+
+FEATURES
+
+1.User-friendly GUI created with Tkinter
+2.Secure and lightweight SQLite database for storing account details
+3.Basic banking operations: Open Account, Check Account, Deposit, Withdraw
+4.Error handling for invalid inputs
+
+TECHNOLOGIES USES
+
+1.Python (for backend logic)
+2.Tkinter (for GUI)
+3.SQLite (for database management)
+
+PROJECT STRUCTURE
 
 Banking-System/
 │-- banking.py          # Main application script
@@ -26,17 +31,18 @@ Installation
 
 Clone this repository:
 
-git clone https://github.com/Anuradha3120/banking-system.git
+1.git clone https://github.com/Anuradha3120/banking-system.git
 cd banking-system
-Install required dependencies: (SQLite and Tkinter is included with Python by default, so no additional installation is needed.)
+2.Install required dependencies: (SQLite and Tkinter is included with Python by default, so no additional installation is needed.)
 
-Steps to Run
-Run the Python script:
+STEPS TO RUN
 
+1.Run the Python script:
 python banking.py
-The GUI will open with options to Open Account, Check Account, Deposit, Withdraw, and Exit.
 
-Follow the prompts to perform banking operations.
+2.The GUI will open with options to Open Account, Check Account, Deposit, Withdraw, and Exit.
+
+3.Follow the prompts to perform banking operations.
 
 Main Screen
 
