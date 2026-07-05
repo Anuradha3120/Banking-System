@@ -1,4 +1,4 @@
-#BANKING SYSTEM
+BANKING SYSTEM
 
 This is a simple Banking System application built using Python, Tkinter (GUI), and SQLite (Database). The application allows users to:
 
